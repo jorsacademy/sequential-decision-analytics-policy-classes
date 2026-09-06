@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Four Sequential Decision Analytics policy classes on a common stochastic inventory problem"
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {text = "JORS Academy Non-Commercial Source License 1.0"}
 authors = [{name = "Jors Academy"}]
 dependencies = []
 
